@@ -1,4 +1,4 @@
-﻿using System;
+﻿using FactoryMethod.Aplication;
 
 namespace FactoryMethod
 {
@@ -6,7 +6,7 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Client().Main();
         }
     }
 }

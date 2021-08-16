@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8AGYm5PjtXR6uYm5OKC+l3JJ4v+59Kr93iTedRVvYEXZ76MKr+/LNsiwQaMk0AOj39rIZhZd4a+B5W//b7MO9w==",
+  "dgSpecHash": "tatHUp+h3U8AEXyHKDGXXudSLRpwWjYXJbDsdP0PXqLN5Yi7RB3jUVM6uX9Y9XnXJFfCOJg48ooiwtVsu1FAIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\DesignPatternsWith.Net\\DesignPatternsWith.Net.Unitary.Test\\DesignPatternsWith.Net.Unitary.Test.csproj",
+  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\DevGordinho-DesignPatternsWith.Net\\DesignPatternsWith.Net.Unitary.Test\\DesignPatternsWith.Net.Unitary.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hudson\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

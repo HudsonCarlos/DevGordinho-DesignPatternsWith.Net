@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lc3kkiK4Mzy3VICEAv8vE+wmAskTAKDFc1Ci0X4j8l73svjc02ksWtagQ3lqI8IS3/ON+7D1ZCu/1X76y1UqUA==",
+  "dgSpecHash": "p4QcYx3Bn7T0Dlja8IdFv3dw1A0rjZXpgEM1GiXABy20B3GTLE3Sti0rbz8kUy2UZaRZBLfftT46VECQ0LHTWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\DesignPatternsWith.Net\\Strategy\\Strategy.csproj",
+  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\DevGordinho-DesignPatternsWith.Net\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

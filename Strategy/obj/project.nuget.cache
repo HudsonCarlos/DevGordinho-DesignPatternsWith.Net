@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p4QcYx3Bn7T0Dlja8IdFv3dw1A0rjZXpgEM1GiXABy20B3GTLE3Sti0rbz8kUy2UZaRZBLfftT46VECQ0LHTWw==",
+  "dgSpecHash": "CeZXIqnTrNP5IYDxNnBe83Wug+wJiqbcwbH9ola2uaYYKx0D5y1TduTyCTR2ZWTqsjrnkECHcnuXMuFlKXY/Mg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\DevGordinho-DesignPatternsWith.Net\\Strategy\\Strategy.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -188,7 +188,6 @@ C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWi
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.csprojAssemblyReference.cache
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.AssemblyInfoInputs.cache
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.AssemblyInfo.cs
@@ -198,3 +197,4 @@ C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWi
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\ref\DesignPatternsWith.Net.Unitary.Test.dll
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.pdb
 C:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.genruntimeconfig.cache
+c:\Users\Hudson\source\repos\DevGordinho-DesignPatternsWith.Net\DesignPatternsWith.Net.Unitary.Test\obj\Debug\net5.0\DesignPatternsWith.Net.Unitary.Test.csproj.AssemblyReference.cache
